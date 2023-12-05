@@ -1,2 +1,2 @@
 # sber_scrapper
-As a participant in the intensive school 21, I wrote a scrapper for a web page
+Scrapper for site . 4 modules were implemented, project initialization, parsing of iPhone catalog data, processing of parsed data and a downloader for launching the project
